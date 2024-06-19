@@ -3,4 +3,4 @@
 
 # Project File Categories
 You can find project downloads under the discussions tab of this repository.  
-- 🅰️ [2D Assets](https://github.com/IvanLealDev/Projects-MC/discussions/categories/2d-assets)
+- 🅰️ [Projects](https://github.com/IvanLealDev/Projects-Autocad/discussions/categories/projects)
